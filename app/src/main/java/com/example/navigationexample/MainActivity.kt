@@ -174,7 +174,7 @@ private fun nesneGonderme(
             Log.e("Error", "Geçersiz yaş veya boy formatı")
         }
     }) {
-        Text(text = "Veri Gönderilen Sayfaya")
+        Text(text = "Nesne Gönderilen Sayfaya")
     }
 }
 
